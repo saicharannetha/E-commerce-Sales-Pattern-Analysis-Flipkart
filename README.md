@@ -1,5 +1,5 @@
 # 📊 E-Commerce Data Analysis
-![flipkart]()
+![flipkart](https://github.com/saicharannetha/Ecommerce_data_analysis/blob/main/ecommarce.jpg)
 ## 🚀 Overview
 
 This project demonstrates the creation of an interactive **Sales Analytics Dashboard** using **Power BI** and **MySQL**. It offers deep insights into Flipkart's sales data, focusing on **product performance**, **customer behavior**, **regional trends**, and **payment methods**. By leveraging SQL for data processing and Power BI for visualization, this dashboard provides a comprehensive view of sales dynamics that can be used to drive data-informed business decisions.
