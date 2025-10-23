@@ -1,4 +1,4 @@
-# 📊 Flipkart Sales Analysis
+# 📊 E-Commerce Analysis
 ![flipkart](https://github.com/saicharannetha/Flipkart-sales-analysis/blob/main/flipkart_lo.png)
 ## 🚀 Overview
 
